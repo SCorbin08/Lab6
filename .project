@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>demomvc</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Calculator_UML.html</name>
+			<type>1</type>
+			<location>C:/Users/Owner/Desktop/Ryan Desktop/School/Active_Classes/Computer Science/CS3443 - Applications/ouq128-lab6/Calculator_UML.class.violet.html</location>
+		</link>
+	</linkedResources>
+</projectDescription>
